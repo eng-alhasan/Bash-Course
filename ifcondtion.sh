@@ -1,4 +1,4 @@
-
+#if condition
 
 var=10
 
